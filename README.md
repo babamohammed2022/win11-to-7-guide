@@ -1,6 +1,6 @@
-# Guide: Turning Windows 11 into Windows 7
+# Guide: Make Windows 11 look very similar to Windows 7 without replacing or modifying system files
 
-A complete guide to recreate the classic Windows 7 look and functionality on Windows 10/11.
+A comprehensive guide to recreate the classic Windows 7 aspect and functionality on Windows 10/11.
 
 ---
 
@@ -8,7 +8,7 @@ A complete guide to recreate the classic Windows 7 look and functionality on Win
 
 - https://github.com/namazso/SecureUxTheme
 
-Patches UxTheme in memory so third-party themes can be applied. After installing, **restart your PC**.
+This software patches UxTheme in memory so third-party themes can be applied. After installing, **restart your PC**.
 
 ---
 
@@ -24,7 +24,7 @@ Patches UxTheme in memory so third-party themes can be applied. After installing
 
 - https://windhawk.net/
 
-The mod marketplace you'll use to install most of the mods below.
+This software contains the mod marketplace that will be used to install most of the mods below.
 
 ---
 
@@ -36,7 +36,8 @@ The mod marketplace you'll use to install most of the mods below.
 3. Open Personalization with `WIN + R` → paste:
    ```text
    shell:::{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921}
-4. Select the native Windows theme first, then apply the one you just installed.
+   ```
+4. Select the native Windows theme first, then apply the one just installed.
 
 If the theme fails to apply (blank/white screen), redo the SecureUxTheme steps or try a different theme.
 
@@ -46,7 +47,7 @@ If the theme fails to apply (blank/white screen), redo the SecureUxTheme steps o
 
 - https://github.com/ALTaleX531/OpenGlass/releases
 
-Enables the Aero Glass effect on modern Windows. Use the installer — it auto-selects the correct build for your system.
+This software enables the Aero Glass effect on modern Windows. Use the installer, it should auto-select the correct build for the system.
 
 ---
 
@@ -56,7 +57,7 @@ Enables the Aero Glass effect on modern Windows. Use the installer — it auto-s
    - https://github.com/Open-Shell/Open-Shell-Menu/releases
 2. Download the **Windows 7 skin**:
    - https://github.com/EJSnow/Windows-7-skin
-3. In Open-Shell settings, go to the **Skin** tab and import the downloaded skin.
+3. Go to C:\Program Files\Open-Shell\Skins and add the Windows 7 skin files, then go to the **Skin** tab and import the downloaded skin.
 
 ---
 
@@ -65,40 +66,40 @@ Enables the Aero Glass effect on modern Windows. Use the installer — it auto-s
 Open Windhawk → **Explore** → search for and install the following mods:
 
 ### Taskbar / Start Menu / Core UI
-- Aerexplorer (Windows 11 port)[cite: 1]
-- Aero Flip 3D Recreation[cite: 1]
-- Aero Flyout Fix[cite: 1]
-- Aero Peek on Show desktop hover[cite: 1]
-- Classic Taskbar and Start Menu Properties[cite: 1]
-- Eradicate Immersive Menus[cite: 1]
-- Force thick frames[cite: 1]
-- Resource Redirect — open its settings, find **pane7**, and save[cite: 1]
-- Restore Button Pulse Animation[cite: 1]
-- Taskbar classic context menu[cite: 1]
-- Windows 7 Command Bar[cite: 1]
-- Windows 7 Window Animations Restorer[cite: 1]
+- Aerexplorer (Windows 11 port)
+- Aero Flip 3D Recreation
+- Aero Flyout Fix
+- Aero Peek on Show desktop hover
+- Classic Taskbar and Start Menu Properties
+- Eradicate Immersive Menus
+- Force thick frames
+- Resource Redirect — open its settings, find **pane7**, and save
+- Restore Button Pulse Animation
+- Taskbar classic context menu
+- Windows 7 Command Bar
+- Windows 7 Window Animations Restorer
 
 ### Network / Action Center / System Flyouts
-- Windows 7 Network Flyout Recreation[cite: 1]
-- Windows 7/8.1 Action Center Recreation[cite: 1]
+- Windows 7 Network Flyout Recreation
+- Windows 7/8.1 Action Center Recreation
 
 ### Control Panel & Settings
-- Classic Display Control Panel Restorer[cite: 1]
-- Control Panel Revival[cite: 1]
-- Performance Information and Tools Restorer[cite: 1]
-- Redirect Settings to Control Panel[cite: 1]
-- Windows 11 HomeGroup Page Restorer[cite: 1]
-- Windows 7 Legacy Applet Restorer[cite: 1]
-- Windows 7 Region and Language Restorer[cite: 1]
-- Windows 7/8.1 Language Switcher Restorer[cite: 1]
-- Windows Update Control Panel Page Restorer[cite: 1]
+- Classic Display Control Panel Restorer
+- Control Panel Revival
+- Performance Information and Tools Restorer
+- Redirect Settings to Control Panel
+- Windows 11 HomeGroup Page Restorer
+- Windows 7 Legacy Applet Restorer
+- Windows 7 Region and Language Restorer
+- Windows 7/8.1 Language Switcher Restorer
+- Windows Update Control Panel Page Restorer
 
 ### Dialogs & System Behavior
-- Logon & Sleep Fade Restorer[cite: 1]
-- Logon, Logoff & Shutdown Sounds Restored[cite: 1]
-- Windows Vista/7 Open With Dialog Restorer[cite: 1]
-- Windows 7 Classic AutoPlay Dialog Restorer[cite: 1]
-- Windows 7/8.1 Please Wait Restorer[cite: 1]
+- Logon & Sleep Fade Restorer
+- Logon, Logoff & Shutdown Sounds Restored
+- Windows Vista/7 Open With Dialog Restorer
+- Windows 7 Classic AutoPlay Dialog Restorer
+- Windows 7/8.1 Please Wait Restorer
 
 ---
 
@@ -108,7 +109,7 @@ Open Windhawk → **Explore** → search for and install the following mods:
 
 1. Extract everything into a folder.
 2. Run `win7taskbar.exe`.
-3. ⚠️ This is an **alpha** release — expect bugs.
+3. ⚠️ This is an **alpha** release, expect some minor bugs and limitations.
 4. To refine it: right-click the taskbar → **Properties** → disable the custom search.
 
 ---
