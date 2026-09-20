@@ -66,7 +66,7 @@ This software enables the Aero Glass effect on modern Windows. Use the installer
 Open Windhawk → **Explore** → search for and install the following mods:
 
 ### Taskbar / Start Menu / Core UI
-- Aerexplorer (Windows 11 port)
+- Aerexplorer (Windows 11 port, credits to aubymori for the original)
 - Aero Flip 3D Recreation
 - Aero Flyout Fix
 - Aero Peek on Show desktop hover
