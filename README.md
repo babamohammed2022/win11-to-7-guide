@@ -1,6 +1,6 @@
 # Guide: Make Windows 11 look very similar to Windows 7 without replacing or modifying system files
 
-A comprehensive guide to recreate the classic Windows 7 aspect and functionality on Windows 10/11.
+A comprehensive guide to recreate the classic Windows 7 aspect and functionality on Windows 11. On Windows 10, the process should be similar and with potentially better results in some areas. However, it is important to note that some parts may vary (for instance, the theme to use on Windows 10 is usually Aero10) but the same principles should apply. If there are problems, please refer to the author.
 
 ---
 
