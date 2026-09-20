@@ -28,15 +28,14 @@ The mod marketplace you'll use to install most of the mods below.
 
 ---
 
-## Step 4 — Install the theme
+## Step 4 — Install the Theme
 
 1. Download a Windows 7-style theme, for example **Aero11**:
    - https://github.com/Sand216/Aero11
 2. Extract the contents into `C:\Windows\Resources`.
-3. Open Personalization with `WIN+R` → paste:
-   ```
+3. Open Personalization with `WIN + R` → paste:
+   ```text
    shell:::{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921}
-   ```
 4. Select the native Windows theme first, then apply the one you just installed.
 
 If the theme fails to apply (blank/white screen), redo the SecureUxTheme steps or try a different theme.
@@ -51,7 +50,7 @@ Enables the Aero Glass effect on modern Windows. Use the installer — it auto-s
 
 ---
 
-## Step 6 — Install Open-Shell with the Windows 7 skin
+## Step 6 — Install Open-Shell with the Windows 7 Skin
 
 1. Install **Open-Shell**:
    - https://github.com/Open-Shell/Open-Shell-Menu/releases
@@ -61,46 +60,49 @@ Enables the Aero Glass effect on modern Windows. Use the installer — it auto-s
 
 ---
 
-## Step 7 — Install the Windhawk mods
+## Step 7 — Install the Windhawk Mods
 
-Open Windhawk → **Explore** → search for author **babamohammed** → install the mods below.
+Open Windhawk → **Explore** → search for and install the following mods:
 
-**Taskbar / Start Menu / core UI**
-- Classic Taskbar and Start Menu Properties
-- Aero Flyout Fix
-- Aero Flip 3D Recreation
-- Windows 7 Window Animations Restorer
-- Windows 7 Command Bar
-- Taskbar classic context menu
-- Restore Button Pulse Animation
-- Resource Redirect — open its settings, find **pane7**, and save
+### Taskbar / Start Menu / Core UI
+- Aerexplorer (Windows 11 port)[cite: 1]
+- Aero Flip 3D Recreation[cite: 1]
+- Aero Flyout Fix[cite: 1]
+- Aero Peek on Show desktop hover[cite: 1]
+- Classic Taskbar and Start Menu Properties[cite: 1]
+- Eradicate Immersive Menus[cite: 1]
+- Force thick frames[cite: 1]
+- Resource Redirect — open its settings, find **pane7**, and save[cite: 1]
+- Restore Button Pulse Animation[cite: 1]
+- Taskbar classic context menu[cite: 1]
+- Windows 7 Command Bar[cite: 1]
+- Windows 7 Window Animations Restorer[cite: 1]
 
-**Network / Action Center**
-- Windows 7 Network Flyout Recreation
-- Windows 7/8.1 Action Center Recreation
+### Network / Action Center / System Flyouts
+- Windows 7 Network Flyout Recreation[cite: 1]
+- Windows 7/8.1 Action Center Recreation[cite: 1]
 
-**Control Panel**
-- Control Panel Revival
-- Redirect Settings to Control Panel
-- Windows 7 Legacy Applet Restorer
-- Classic Display Control Panel Restorer
-- Performance Information and Tools Restorer
-- Windows Update Control Panel Page Restorer
-- Windows 7 Region and Language Restorer
-- Windows 7/8.1 Language Switcher Restorer
-- Windows 11 HomeGroup Page Restorer
+### Control Panel & Settings
+- Classic Display Control Panel Restorer[cite: 1]
+- Control Panel Revival[cite: 1]
+- Performance Information and Tools Restorer[cite: 1]
+- Redirect Settings to Control Panel[cite: 1]
+- Windows 11 HomeGroup Page Restorer[cite: 1]
+- Windows 7 Legacy Applet Restorer[cite: 1]
+- Windows 7 Region and Language Restorer[cite: 1]
+- Windows 7/8.1 Language Switcher Restorer[cite: 1]
+- Windows Update Control Panel Page Restorer[cite: 1]
 
-**Dialogs / system behavior**
-- Windows Vista/7 Open With Dialog Restorer
-- Windows 7 Classic AutoPlay Dialog Restorer
-- Windows 7/8.1 "Please Wait" Restorer
-- Legacy File Copy
-- Logon, Logoff & Shutdown Sounds Restored
-- Classic Windows Photo Viewer Redirect
+### Dialogs & System Behavior
+- Logon & Sleep Fade Restorer[cite: 1]
+- Logon, Logoff & Shutdown Sounds Restored[cite: 1]
+- Windows Vista/7 Open With Dialog Restorer[cite: 1]
+- Windows 7 Classic AutoPlay Dialog Restorer[cite: 1]
+- Windows 7/8.1 Please Wait Restorer[cite: 1]
 
 ---
 
-## Step 8 — Download and run Win7Taskbar
+## Step 8 — Download and Run Win7Taskbar
 
 - https://github.com/babamohammed2022/Win7Taskbar/releases
 
@@ -111,14 +113,14 @@ Open Windhawk → **Explore** → search for author **babamohammed** → install
 
 ---
 
-## Optional: Windows 8.1 touches
+## Optional: Windows 8.1 interface
 
 - Right-click the taskbar → **Properties** → choose the Windows 8 network flyout.
 - Go to **Additional settings** → choose the Windows 8.1 theme.
 
 ---
 
-## Quick links
+## Quick Links
 
 - SecureUxTheme: https://github.com/namazso/SecureUxTheme
 - ExplorerPatcher: https://github.com/valinet/ExplorerPatcher/releases
